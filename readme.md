@@ -150,6 +150,6 @@ Light Blue: #9EFFFF
 - [Cobalt2 for Alfred](https://github.com/wesbos/Cobalt2-Alfred-Theme)
 - [Cobalt2 for Atom](https://github.com/wesbos/cobalt2-atom)
 - [Cobalt2 for VS Code](https://github.com/wesbos/cobalt2-vscode)
-- [Cobalt2 Color Scheme for JetBrains Products (WebStorm, RubyMine, Android Studio, etc.)(https://plugins.jetbrains.com/plugin/10745-cobalt-2-color-scheme/)
+- [Cobalt2 Color Scheme for JetBrains Products (WebStorm, RubyMine, Android Studio, etc.)](https://plugins.jetbrains.com/plugin/10745-cobalt-2-color-scheme/)
 
 I also wrote the [Sublime Text Power User Book and video package](https://SublimeTextBook.com) - if you want to become amazing with Sublime Text, check it out!
